@@ -1,0 +1,23 @@
+{
+  "name": "httpproject",
+  "version": "1.0.0",
+  "description": "Project for the exercise HTTP",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErenSeven/httpProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErenSeven/httpProject/issues"
+  },
+  "homepage": "https://github.com/ErenSeven/httpProject#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
